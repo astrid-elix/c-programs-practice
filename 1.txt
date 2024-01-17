@@ -1,0 +1,9 @@
+student no 0.
+name : goku
+roll : 1
+student no 1.
+name : bulma
+roll : 2
+student no 2.
+name : onizuka
+roll : 3
